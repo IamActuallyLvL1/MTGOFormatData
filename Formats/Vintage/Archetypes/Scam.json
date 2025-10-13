@@ -7,10 +7,6 @@
             "Cards": ["Grief","Reanimate","Entomb","Troll of Khazad-dûm"]
         }, 
         {
-            "Type": "InMainboard",
-            "Cards": ["Force of Will"]
-        }, 
-        {
             "Type": "DoesNotContainSideboard",
             "Cards": ["Lurrus of the Dream-Den"]
         }
