@@ -12,6 +12,10 @@
         },
         {
             "Type": "DoesNotContain",
+            "Cards": ["Paradoxical Outcome"]
+        },
+        {
+            "Type": "DoesNotContain",
             "Cards": ["Oath of Druids"]
         },
         {

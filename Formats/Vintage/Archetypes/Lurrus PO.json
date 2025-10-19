@@ -4,10 +4,6 @@
     "Conditions": [
         {
             "Type": "DoesNotContain",
-            "Cards": ["Underworld Breach"]
-        },
-        {
-            "Type": "DoesNotContain",
             "Cards": ["Goblin Engineer"]
         },
         {
