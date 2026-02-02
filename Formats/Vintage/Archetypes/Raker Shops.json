@@ -19,7 +19,7 @@
             "Cards": ["Sowing Mycospawn"]
         },
                 {
-            "Type": "DoesNotContain",
+            "Type": "DoesNotContainMainboard",
             "Cards": ["Sphere of Resistance"]
         }
     ]
